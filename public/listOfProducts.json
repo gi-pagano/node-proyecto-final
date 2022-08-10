@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Taza",
+        "timestamp": 1659884104436,
+        "description": "Taza de cerámica",
+        "code": "TZA123",
+        "photo": "https://cdn2.iconfinder.com/data/icons/valentine-day-16/512/574_Cup_Coffee_Tea_Love_valentine_valentines_day_love-256.png",
+        "price": 1200,
+        "stock": 38,
+        "id": 1
+    },
+    {
+        "name": "Vela",
+        "timestamp": 1659884104417,
+        "description": "Vela de soja",
+        "code": "VLS123",
+        "photo": "https://cdn2.iconfinder.com/data/icons/valentine-day-16/512/700_candle_love_heart_wedding_valentine_valentines_day_love-256.png",
+        "price": 2100,
+        "stock": 25,
+        "id": 2
+    },
+    {
+        "name": "Florero",
+        "timestamp": 1659915925060,
+        "description": "Florero de madera",
+        "code": "FLO123",
+        "photo": "https://cdn2.iconfinder.com/data/icons/valentines-day-flat-line-1/59/heart-flower-vase-256.png",
+        "price": 3200,
+        "stock": 33,
+        "id": 3
+    }
+]
